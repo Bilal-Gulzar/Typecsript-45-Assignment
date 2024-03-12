@@ -1,0 +1,1 @@
+console.log('Albert Einstein once Said "if You want to live a happpy life,tie it to a goal not to people or things"')
